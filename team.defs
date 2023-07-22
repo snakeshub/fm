@@ -1,0 +1,17 @@
+#Sat Jul 22 14:39:40 BST 2023
+bluej.teamsettings.groupname=
+bluej.teamsettings.git.repositoryPrefix=/snakeshub/testing.git
+bluej.teamsettings.git.protocol=https
+bluej.teamsettings.user=snakeshub
+bluej.teamsettings.git.server=github.com
+bluej.teamsettings.yourEmail=nick.sullivan@live.co.uk
+bluej.teamsettings.ignore8=\\.DS_Store
+bluej.teamsettings.vcs=git
+bluej.teamsettings.ignore7=.*\\\#backup
+bluej.teamsettings.yourName=Nick
+bluej.teamsettings.ignore6=.*\\\#
+bluej.teamsettings.ignore5=.*\\~
+bluej.teamsettings.ignore4=.*\\.ctxt
+bluej.teamsettings.ignore3=team\\.defs
+bluej.teamsettings.ignore2=bluej\\.pkh
+bluej.teamsettings.ignore1=.*\\.class

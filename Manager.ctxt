@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Manager
+comment0.text=\r\n\ The\ Manager\ class\ represents\ the\ users\ manager\ character,\ it\ should\ store\r\n\ the\ name\ and\ other\ info\ provided\ by\ the\ player\ at\ the\ start,\ and\ also\ \r\n\ keep\ data\ about\ the\ manager\ performace\ and\ history\r\n\r\n\ @author\ Nick\ Sullivan\r\n\ @version\ 1.0\r\n
+comment1.params=
+comment1.target=Manager()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ Manager\r\n
+comment2.params=y
+comment2.target=int\ sampleMethod(int)
+comment2.text=\r\n\ An\ example\ of\ a\ method\ -\ replace\ this\ comment\ with\ your\ own\r\n\r\n\ @param\ \ y\ \ a\ sample\ parameter\ for\ a\ method\r\n\ @return\ \ \ \ the\ sum\ of\ x\ and\ y\r\n
+numComments=3

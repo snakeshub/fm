@@ -1,0 +1,10 @@
+#BlueJ class context
+comment0.target=Game
+comment0.text=\r\n\ This\ is\ where\ the\ game\ starts,\ and\ a\ GUI\ will\ begin\r\n\r\n\ @author\ Nick\ Sullivan\r\n\ @version\ 1.0\r\n
+comment1.params=args
+comment1.target=void\ main(java.lang.String[])
+comment1.text=\r\n\ A\ main\ method\ to\ launch\ the\ game\ and\ it\ GUI\r\n
+comment2.params=
+comment2.target=void\ makeFrame()
+comment2.text=\r\n\ The\ opening\ frame\r\n
+numComments=3
